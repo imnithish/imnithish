@@ -1,12 +1,12 @@
 ### Hi 👋
 
 
-- 🔭 Working as full time Android Developer.
-- 🌱 Loves to learn about Android, Kotlin
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Full time Android Developer.
+- 🌱 Loves to learn new things about Android and Flutter.
+- ✨ Kotlin and Android X Enthusiast.
+- 🤔 Looking for help with Android and Flutter.
+- 💬 Ask me about Anything Native Android.
+- 🌄 Loves Travelling and 🏍️ Motorcycles.
+- 📫 Contact me: [Nitheesh Ag]{https://imnstudios.com/#/nitheeshag}.
+ 
+ ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
