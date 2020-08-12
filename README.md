@@ -7,6 +7,6 @@
 - 🤔 Looking for help with Android and Flutter.
 - 💬 Ask me about Anything Native Android.
 - 🌄 Loves Travelling and 🏍️ Motorcycles.
-- 📫 Contact me: [Nitheesh Ag]{https://imnstudios.com/#/nitheeshag}.
+- 📫 Contact me: [Nitheesh Ag]{https://imnstudios.com/#/nitheeshag}
  
  ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
