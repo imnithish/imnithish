@@ -1,11 +1,7 @@
 ### Hi 👋
 
-
-- 🔭 Full time Android Developer.
-- 🌱 Loves to learn new things about Android and Flutter.
 - ✨ Kotlin and Android Enthusiast.
-- 🤔 Looking for help with Android and Flutter.
-- 💬 Ask me about Anything Native Android.
+- 🤔 Been into server side Kotlin(Ktor) and Flutter these days.
 - 🌄 Loves Travelling and 🏍️ Motorcycles.
 - 📫 Contact me: [Nitheesh Ag](https://imnstudios.com/#/nitheeshag).
  
