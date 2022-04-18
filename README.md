@@ -12,5 +12,5 @@ _**Latest tech life update:**_ _Currently Exploring Android Jetpack Compose 🚀
 
 ## 🔗 Know more about me 
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=outlook)](mailto:imnithish@live.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:imnithish@live.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/imnithish/)
