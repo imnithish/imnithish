@@ -5,7 +5,6 @@ _**Latest tech life update:**_ _Currently Exploring Android Jetpack Compose 🚀
 
 ### Welcome to my profile 👨‍💻
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Mobile App developer.
 - 👨‍💻 Mostly working on Android and Kotlin❤️.
 - 🌐 Little bit into Ktor and Flutter.
 -  And yea I loves travelling 🚢.
